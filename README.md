@@ -4,6 +4,8 @@ A guide to working with large language models using Google Colab, APIs, Hugging 
 
 Note that this tutorial was first drafted in June 2023 for a research project. The tools used are constantly evolving, so some parts may be outdated. Please check the documentation of APIs and platforms for the latest changes if you run into issues. Please also consider which parts apply to your personal project and which don't.
 
+Daisy Liu contributed to updating some sections and Yinqdan Lu contributed to the section on running scripts in the background.
+
 ## Table of contents
 
 - [Keep in mind](#keep-in-mind)
